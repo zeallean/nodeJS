@@ -1,0 +1,11 @@
+{
+	"name":"helloWorld"
+	,"description":"just for test"
+	,"version":"0.0.2"
+	,"keywords":["test"]
+	,"scripts":{"test":"node formidable.js"}
+	,"devDependencies":{
+		"formidable":""
+		"crypto":""
+	}
+}
